@@ -1,0 +1,20 @@
+{
+    "name": "keepin-up-with-the-kardashians-season-16-episode-7/kuwtk7",
+    "description": "Watch Keeping Up with the Kardashians Season 16 Episode 7 Online for Free S16e07 WATCH FULL EPISODES HERE (( CLICK LINK BELOW FOR WATCHING ))",
+	"keywords": ["Keeping Up with the Kardashians Season 16 Episode 7 Watch Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/9dyph1EhAm",
+            "homepage": "https://t.co/9dyph1EhAm",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
